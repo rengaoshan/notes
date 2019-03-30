@@ -1,0 +1,38 @@
+{
+    "title":"Note",
+    "author": "sam",
+    "plugins": [
+    "toggle-chapters",
+    "sectionx",
+    "splitter",
+    "expandable-chapters-small"
+    ],
+    "pluginsConfig": {
+    "sharing": {
+    "weibo": false,
+    "facebook": false,
+    "twitter": false,
+    "google": false,
+    "instapaper": false,
+    "vk": false,
+    "all": [
+    ]
+    },
+    "sectionx": {
+    "tag": "b"
+    },
+    "autocover": {
+    "font": {
+    "family": "Impact",
+    "color": "#FFF"
+    },
+    "size": {
+    "w": 1800,
+    "h": 2360
+    },
+    "background": {
+    "color": "#09F"
+    }
+    }
+    }
+    }
